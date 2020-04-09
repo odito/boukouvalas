@@ -41,7 +41,7 @@ export default function Tab() {
 const TabWrapper = styled.div`
 
  .tab{
-     background:#b9d7b9;
+     background:#b7c2b7;
     /* background: #9ec89e; */
     font-style: italic;
     color: rgb(100, 99, 98);

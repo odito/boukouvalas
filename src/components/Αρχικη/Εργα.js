@@ -33,7 +33,7 @@ export default function Εργα() {
                 </div>
                  <div className="perissotera">
                 <Link to='/σχετικα'>
-                   <button>περισσοτερα...</button>
+                   <button className="btn-basic">περισσοτερα...</button>
                </Link>
                </div>
               </div>

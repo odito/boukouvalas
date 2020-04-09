@@ -73,7 +73,7 @@ const properties = {
                  <h2>εγκαταστάσεις</h2>
                  
                  <div className="banner-btn">
-                   <button>Περισσότερα...</button>
+                   <button className="btn-basic">Περισσότερα...</button>
                  </div>
                </div>
                </div>
@@ -92,7 +92,7 @@ const properties = {
                  <h2>συστήματα</h2>
                  
                  <div className="banner-btn">
-                   <button>Περισσότερα...</button>
+                   <button className="btn-basic">Περισσότερα...</button>
                  </div>
                </div>
                </div>
@@ -107,7 +107,7 @@ const properties = {
                  <h2>ασφαλείας</h2>
                  
                  <div className="banner-btn">
-                   <button>Περισσότερα...</button>
+                   <button className="btn-basic">Περισσότερα...</button>
                  </div>
                </div>
                </div>
@@ -122,7 +122,7 @@ const properties = {
                  <h2>ΔΕΗ</h2>
                  
                  <div className="banner-btn">
-                   <button>Περισσότερα...</button>
+                   <button className="btn-basic">Περισσότερα...</button>
                  </div>
                </div>
                </div>

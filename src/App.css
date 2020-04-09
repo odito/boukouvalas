@@ -7,7 +7,30 @@
 
 :root{
     --lightDark:#525252;
+    --lightGreen:rgb(26, 177, 26);
+    --mainTransition:all 0.5s ease-in-out;
+     --mainTeal:teal;
+     
 }
+
+
+/* utility classes */
+ .btn-basic{
+    padding: 5px 10px; 
+    outline: none;
+    transition: var(--mainTransition);
+   
+ }
+
+ .btn-basic:hover{
+    background-color: var(--lightGreen);
+ }
+
+
+/* end of utilities classes */
+
+
+
 
 p{
     line-height: 1.3;

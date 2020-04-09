@@ -108,27 +108,17 @@
 
   .banner-btn button{
       font-size: 18px;
-      padding:5px 10px;
-      border:1px solid #fff;
-      outline: none;
+    border:1px solid #fff;
       background: rgba(0,0,0,0.4);
       color: #fff;
-      transition: all 0.5s ease-in-out;
   }
 
   .banner-btn button:hover{
-  
-    border:1px solid teal;
+   border:1px solid #fff;
     background: teal;
     color: #fff;
-    transition: all 0.5s ease-in-out;
     cursor: pointer;
 }
-
-
-
-
-
 
 
 @media screen and (min-width:664px){
