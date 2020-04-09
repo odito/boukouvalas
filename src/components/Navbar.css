@@ -152,6 +152,10 @@ nav ul.submenu li a:hover{
     height: 100vh;
 }
 
+.newSubmenu{
+    display: none;
+   }
+
 @media screen and (min-width:664px){
  .logoImg{
     width:140px;
@@ -241,6 +245,8 @@ ul.submenu li a:hover{
     padding: 8px 25px;
   
  }
+
+ 
  
 }
 
@@ -260,9 +266,7 @@ ul.submenu li a:hover{
         color:rgb(204,178,29);
     }
 
-    .newSubmenu{
-      display: none;
-    }
+   
 
 }
 
