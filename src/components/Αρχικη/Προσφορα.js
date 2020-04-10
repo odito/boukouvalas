@@ -51,7 +51,7 @@ state={
     
     
                 }}>
-                   <div className="inside-container cont">
+                   <div className="inside-container ">
                    <div className="prosfora-center">
                        <div className="accord">
                          
@@ -63,6 +63,7 @@ state={
                         })}
 
                        </div>
+                     
     
                    </div>
                 </div> 

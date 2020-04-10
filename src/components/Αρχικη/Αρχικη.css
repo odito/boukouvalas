@@ -134,7 +134,7 @@
     }
     .erga-gallery{
         flex:0 0 69%;
-        /* border:1px solid green; */
+      
         
         
     }
@@ -142,6 +142,8 @@
 }
 
 /* -----end of section erga-egatastaseon----- */
+
+/* ----- section prosfora ----- */
 
 .cont{
     padding:20px 10px;
@@ -165,6 +167,15 @@ min-height: 70vh;
     justify-content: space-between;
    font-size: 18px;
    padding:5px 10px;
+   cursor: pointer;
+   background: rgba(48, 48, 48, 0.4);
+   transition: var(--mainTransition);
+    
+}
+
+.btn-accordion:hover{
+   
+   background: rgba(48, 48, 48, 1);
     
 }
 
@@ -197,8 +208,10 @@ min-height: 70vh;
 }
 
 .activeParagraph{
- height:100px;
+ height:110px;
 }
+
+
 
 @media screen and (min-width:664px){
 .accordion{
@@ -210,13 +223,302 @@ min-height: 70vh;
 @media screen and (min-width:964px){
     .prosfora .back-img{
         min-height: 80vh;
-        
+        background-attachment: fixed !important;
         }
 
-        .accord{
-            margin-top:50px;
-        }
+
     }
+
+/* -----end of section prosfora----- */
+
+/* ----- section συνεργατες----- */
+
+.inside-container{
+    padding:20px 0px;
+}
+
+
+
+.logo-slider{
+    
+     background:lightgray;
+     padding:5px;
+     border-radius: 5px;
+}
+
+
+
+
+
+
+
+   
+   .single-img-item{
+    
+    padding:1px;
+     margin:4px;
+     background: grey;
+     width:100%;
+   }
+   
+   img{
+    
+     display: block;
+    width:100%;
+   }
+   
+   .icon-example{
+    font-size:25px;
+    padding:5px;
+    cursor: pointer;
+    color:grey;
+    transition:all 0.5s ease-in-out;
+   
+   }
+   
+   .icon-example:hover{
+     
+     padding:5px;
+     cursor: pointer;
+     color:#323232;
+    
+    }
+   
+    @media screen and (min-width:960px){
+
+        .logo-slider{
+    
+            background:lightgray;
+            padding:10px;
+            border-radius: 5px;
+       }  
+     .icon-example{
+       font-size:35px;
+      }
+    }
+   
+   
+   
+
+
+/* -----end of section συνεργατες----- */
+
+/* -----section apopseis pelaton----- */
+
+/* .pelates-center{
+    background: lightgray;
+} */
+
+.single-customer{
+    padding:1px;
+    margin:34px 10px;
+    margin-bottom: 0;
+    width:100%; 
+    
+   
+}
+
+.logo-customer{
+  box-shadow: 0px 1px 4px 1px grey;
+   
+   padding:10px;
+   position: relative;
+   min-height: 50vh;
+   background: #fff;
+   margin-bottom: 0;
+}
+
+.logo-customer img{
+ width:100px;
+margin:0 auto;
+margin-top:-45px;
+
+
+}
+
+.single-customer-info{
+    margin-top:20px;
+}
+
+.single-customer-info h3,
+.single-customer-info .star-icons{
+   text-align: center;
+}
+
+.single-customer-info h3{
+    color: var(--lightDark);
+    font-style: italic;
+}
+
+.single-customer-info .star-icons{
+  margin:10px 0;
+}
+
+
+.star-icons  .fas{
+    color:orange;
+}
+
+.single-customer-info p{
+  
+  font-style: italic;  
+  line-height: 1.4rem;
+}
+
+.single-customer-info p i{
+   font-size:1.5rem;
+  font-style: italic;  
+  line-height: 1.4rem;
+}
+
+.fa-quote-left{
+    color:dodgerblue;
+}
+
+
+
+
+/*-----end of section apopseis pelaton----- */
+
+/*----- section contact----- */
+
+
+
+.footer{
+    background: #065174;
+    
+}
+
+.center-footer{
+    text-align: center;
+    margin:0 auto;
+}
+
+.contact-footer,
+.contact-links{
+    margin-bottom: 30px;
+    
+}
+
+.contact-footer h3,
+.contact-links h3,.contact-media h3{
+    margin-bottom: 10px;
+    color:rgb(243,163,13);
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 0.1rem;
+    font-size:18px;
+}
+
+.contact-footer-info li{
+  color:rgb(214, 212, 212);
+  margin: 5px;
+  text-decoration: underline;
+  font-size:18px;
+  
+}
+
+.contact-footer-info p{
+    color:rgb(180, 178, 178);
+     
+    
+  }
+
+  .contact-footer-info i{
+     margin-right:10px;
+     
+    
+  }
+  .contact-footer-info .fa-envelope{
+    color:rgb(128, 10, 10);
+     margin-right:10px;
+    
+  }
+  .contact-footer-info .fa-phone-alt{
+    color:var(--lightGreen);
+     margin-right:10px;
+    
+  }
+
+  .contact-links-info li a{
+    text-decoration: none;
+    margin:3px 0;
+    display: inline-block;
+    color:rgb(214, 212, 212) ;
+     transition: var(--mainTransition);
+  }
+
+  .contact-links-info li a:hover{
+   
+    color:#fff ;
+    
+  }
+
+  .contact-media li a{
+      margin:10px;
+     color: rgb(214, 212, 212) ;
+     display: inline-block;
+  }
+
+  .contact-media li a:hover{
+    margin:10px;
+    color:#fff;
+}
+
+  .contact-media li a i{
+    display: inline-block;
+    padding:5px;
+    font-size: 25px;
+    width:45px;
+  border:1px solid rgb(214, 212, 212) ;
+  border-radius: 5px;
+}
+
+.contact-media li a i:hover{
+    border:1px solid orange ;
+}
+
+.end-footer{
+    text-align: center;
+    padding:10px 10px;
+    background: #043850;
+    border-top: 1px solid rgb(189, 188, 188);
+    color:wheat;
+    font-style: italic;
+    font-size:18px;
+}
+
+@media screen and (min-width:664px){
+ 
+    .center-footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .center-footer p, .center-footer a{
+font-size: 18px;
+    }
+    
+.contact-footer,
+.contact-links{
+    margin-bottom: 0px;
+    
+}
+
+    .contact-footer h3,
+.contact-links h3,.contact-media h3{
+    margin-bottom: 10px;
+    color:rgb(243,163,13);
+    font-style: italic;
+    font-size:18px;
+}
+.contact-links-info li a{
+margin:2px 0;
+
+}
+}
+ 
+/*-----end of section contact----- */
 
 
 
