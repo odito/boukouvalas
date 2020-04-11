@@ -47,10 +47,10 @@
 }
 
 .egatastaseis p{
-    font-size: 20px;
+    font-size: 16px;
     background:rgba(0,0,0,0.4);
     margin:5px auto;
-    width:320px;
+    width:240px;
     padding: 2px 2px 2px 5px;
     font-style: italic;
     color: #fff;
@@ -175,6 +175,10 @@
 
 
 
+
+
+
+
 @media screen and (min-width:968px){
 
     .slides-texts{
@@ -227,6 +231,274 @@
         background-position: 100% 100%;
     }
 }
+
+
+
+
+
+
+/* iphone responsive 6,7,8 landscape */
+@media only screen
+ and (min-device-width:375px) 
+ and (max-device-width:667px)
+ and (orientation:landscape){
+    .each-slide{
+        height: 80vh;
+        margin:0 auto;
+        position: relative;
+        width:100%;
+     
+    }
+
+    .img{
+        width:100%;
+        min-height: 80vh;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+    }
+
+    
+.slides-texts{
+    min-height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+    .welcome h1,
+    .banner h1
+    {
+       font-size: 25px; 
+    }
+
+    .welcome h2,
+    .banner h2{
+       font-size: 22px; 
+    }
+
+    .offers h2{
+        font-size: 20px;
+    }
+
+    .egatastaseis p{
+        font-size: 18px;
+        margin:3px auto;
+        width:340px;
+     
+    }
+
+    .egatastaseis{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .egatastaseis p{
+        flex:0 0 280px;
+        margin:5px 10px;
+    }
+
+ }
+
+
+ /* iphone responsive 6,7,8 landscape */
+@media only screen
+and (min-device-width:375px) 
+and (max-device-width:812px)
+and (orientation:landscape){
+   .each-slide{
+       min-height: 80vh;
+       margin:0 auto;
+       position: relative;
+       width:100%;
+    
+   }
+
+   .img{
+       width:100%;
+       height: 80vh;
+       background-size: 100% 100%;
+       background-repeat: no-repeat;
+       background-position: 100% 100%;
+   }
+
+   
+.slides-texts{
+   min-height: inherit;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+   .welcome h1,
+   .banner h1
+   {
+      font-size: 25px; 
+   }
+
+   .welcome h2,
+   .banner h2{
+      font-size: 22px; 
+   }
+
+   .offers h2{
+       font-size: 20px;
+   }
+
+   .egatastaseis p{
+       font-size: 18px;
+       margin:3px auto;
+       width:340px;
+    
+   }
+
+   .egatastaseis{
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
+   }
+
+   .egatastaseis p{
+       flex:0 0 270px;
+       margin:5px 10px;
+   }
+
+}
+
+ /* iphone responsive ipad,ipad mini landscape */
+ @media only screen
+ and (min-device-width:768px) 
+ and (max-device-width:1024px)
+{
+    .each-slide{
+        height: 60vh;
+        margin:0 auto;
+        position: relative;
+        width:100%;
+      
+    }
+ 
+    .img{
+        width:100%;
+        min-height: 60vh;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+    }
+ 
+    
+ .slides-texts{
+    min-height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+    .welcome h1,
+    .banner h1
+    {
+       font-size: 35px; 
+    }
+ 
+    .welcome h2,
+    .banner h2{
+       font-size: 25px; 
+    }
+ 
+
+    .offers{
+        margin-top: 20px;
+    }
+    .offers h2{
+        font-size: 20px;
+    }
+ 
+    .egatastaseis p{
+        font-size: 18px;
+        margin:3px auto;
+        width:340px;
+     
+    }
+ 
+    .egatastaseis{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      
+    }
+ 
+    .egatastaseis p{
+        flex:0 0 270px;
+        margin:5px 10px;
+    }
+ 
+ }
+
+
+
+ 
+ /*  responsive ipad,ipad mini portrait */
+ 
+
+
+
+/* iphone responsive 5,5s landscape */
+@media only screen
+ and (min-device-width:310px) 
+ and (max-device-width:568px)
+ and (orientation:landscape){
+  
+.slides-texts{
+    min-height: inherit;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+    .welcome h1,
+    .banner h1
+    {
+       font-size: 25px; 
+    }
+
+    .welcome h2,
+    .banner h2{
+       font-size: 22px; 
+    }
+
+    .offers h2{
+        font-size: 20px;
+    }
+
+  
+
+    .egatastaseis{
+        display: flex !important;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .egatastaseis p{
+        font-size: 16px;
+        margin:3px auto;
+        width:100px !important;
+     
+    }
+
+ }
+
+
+
+
+
+
+
+
+
 
 
 

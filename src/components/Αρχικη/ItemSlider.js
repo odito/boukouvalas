@@ -28,14 +28,14 @@ export default class ItemSlider extends Component {
     breakpoints={{
        
         500: {
-            slidesPerPage: 3,
+            slidesPerPage: 2,
             slidesPerScroll: 3,
             width:100
           },
        
        
         1000: { // these props will be applied when screen width is less than 1000px
-            slidesPerPage: 5,
+            slidesPerPage: 4,
             slidesPerScroll: 5,
             
            

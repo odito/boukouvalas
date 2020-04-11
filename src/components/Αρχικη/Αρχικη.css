@@ -93,6 +93,10 @@
         margin-top: 30px;
     }
 
+  
+
+
+
 /* responsive */
     @media screen and (min-width:664px){
     
@@ -140,6 +144,57 @@
     }
 
 }
+
+
+/* responsive devices */
+
+@media only screen
+and (min-device-width:360px)
+and (max-device-width:1024px)
+{
+
+    .erga-shetika{
+        flex:0 0 calc(40% - 20px);
+    }
+    .erga-gallery{
+        flex:0 0 59%;
+         
+    }
+
+}
+
+@media only screen
+and (min-device-width:768px)
+and (max-device-width:1024px)
+{
+
+    .erga-shetika{
+        flex:0 0 calc(40% - 20px);
+    }
+    .erga-gallery{
+        flex:0 0 59%;
+         
+    }
+
+}
+
+/* for iphone */
+@media only screen
+and (min-device-width:375px)
+and (max-device-width:667px)
+{
+
+    .erga-shetika{
+        flex:0 0 calc(42% - 20px);
+       
+    }
+    .erga-gallery{
+        flex:0 0 58%;
+        
+    }
+
+}
+
 
 /* -----end of section erga-egatastaseon----- */
 
@@ -320,10 +375,9 @@ min-height: 70vh;
 
 .logo-customer{
   box-shadow: 0px 1px 4px 1px grey;
-   
+   min-height: auto;
    padding:10px;
    position: relative;
-   min-height: 50vh;
    background: #fff;
    margin-bottom: 0;
 }
@@ -375,7 +429,17 @@ margin-top:-45px;
     color:dodgerblue;
 }
 
-
+@media screen and (min-width:986px){
+    .logo-customer{
+        box-shadow: 0px 1px 4px 1px grey;
+         min-height: 50vh;
+         padding:10px;
+         position: relative;
+        
+         background: #fff;
+         margin-bottom: 0;
+      }
+}
 
 
 /*-----end of section apopseis pelaton----- */
