@@ -1,6 +1,5 @@
 import React from 'react';
 import Title from '../Title';
-// import ImageGallery from './ImageGallery';
 import Gall from './Gall';
 import {Link} from 'react-router-dom';
 
@@ -43,7 +42,7 @@ export default function Εργα() {
                  overflow:'hidden'
                 
               }}>
-               {/* <ImageGallery /> */}
+         
                <Gall />
               </div>
            </div>

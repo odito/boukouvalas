@@ -1,20 +1,20 @@
-export const images =
-[{
+
+export const images = [
+    {
     src: "./images/lightbox/im1.jpg",
     thumbnail: "./images/lightbox/im1.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "ne ",
+    category:"ena"
 },
 {
         src: "./images/lightbox/im2.jpg",
         thumbnail: "./images/lightbox/im2.jpg",
         thumbnailWidth: 320,
         thumbnailHeight: 212,
-      
-        customOverlay:"hghghghghg",
-        caption: "BoatsJeshu John "
+        caption: "BoatsJeshu John ",
+        category:"ena"
 },
 
 {
@@ -23,7 +23,8 @@ export const images =
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "BoatsJeshu John ",
+    category:"ena"
     
 },
 
@@ -34,9 +35,8 @@ export const images =
         thumbnail: "./images/lightbox/im4.jpg",
         thumbnailWidth: 320,
         thumbnailHeight: 212,
-     
-        customOverlay:"hghghghghg",
-        caption: "BoatsJeshu John "
+        caption: "BoatsJeshu John ",
+        category:"ena"
       
 },
 {
@@ -44,8 +44,8 @@ export const images =
     thumbnail: "./images/lightbox/im1.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "BoatsJeshu John ",
+    category:"dio"
     
 },
 {
@@ -53,8 +53,8 @@ export const images =
     thumbnail: "./images/lightbox/im2.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "BoatsJeshu John ",
+    category:"dio"
     
 },
 {
@@ -62,8 +62,8 @@ export const images =
     thumbnail: "./images/lightbox/im3.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "BoatsJeshu John ",
+    category:"tria"
     
 },
 {
@@ -71,8 +71,8 @@ export const images =
     thumbnail: "./images/lightbox/im4.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John "
+    caption: "BoatsJeshu John ",
+    category:"tria"
     
 },
 

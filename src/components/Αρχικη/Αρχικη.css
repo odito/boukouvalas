@@ -93,9 +93,6 @@
         margin-top: 30px;
     }
 
-  
-
-
 
 /* responsive */
     @media screen and (min-width:664px){
@@ -121,7 +118,6 @@
         
     }
     
-
 }
 
  @media screen and (min-width:964px){
@@ -138,9 +134,7 @@
     }
     .erga-gallery{
         flex:0 0 69%;
-      
-        
-        
+       
     }
 
 }
@@ -267,7 +261,6 @@ min-height: 70vh;
 }
 
 
-
 @media screen and (min-width:664px){
 .accordion{
     width: 500px;
@@ -281,7 +274,6 @@ min-height: 70vh;
         background-attachment: fixed !important;
         }
 
-
     }
 
 /* -----end of section prosfora----- */
@@ -293,7 +285,6 @@ min-height: 70vh;
 }
 
 
-
 .logo-slider{
     
      background:lightgray;
@@ -301,13 +292,6 @@ min-height: 70vh;
      border-radius: 5px;
 }
 
-
-
-
-
-
-
-   
    .single-img-item{
     
     padding:1px;
@@ -353,8 +337,6 @@ min-height: 70vh;
     }
    
    
-   
-
 
 /* -----end of section συνεργατες----- */
 
@@ -431,7 +413,6 @@ margin-top:-45px;
 
 
 
-
 @media screen and (min-width:986px){
     .logo-customer{
         box-shadow: 0px 1px 4px 1px grey;
@@ -448,7 +429,6 @@ margin-top:-45px;
 /*-----end of section apopseis pelaton----- */
 
 /*----- section contact----- */
-
 
 
 .footer{
@@ -488,7 +468,6 @@ margin-top:-45px;
 .contact-footer-info p{
     color:rgb(180, 178, 178);
      
-    
   }
 
   .contact-footer-info i{
@@ -586,18 +565,6 @@ margin:2px 0;
 }
  
 /*-----end of section contact----- */
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

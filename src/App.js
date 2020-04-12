@@ -40,7 +40,7 @@ function App() {
          <Route component={Default} />
        </Switch>
 
-      {/* footer */}
+       {/* <Footer /> */}
       
       {/* end of footer */}
     </div>
