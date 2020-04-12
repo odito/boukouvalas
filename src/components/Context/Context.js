@@ -75,14 +75,20 @@ closeLink=(pen)=>{
    })
 
 //    in order to close the submenu menu after @media width of 664px
-   setTimeout(() => {
-    this.setState({
-      open:true  
-    })
-   }, 1000);
+//    setTimeout(() => {
+//     this.setState({
+//       open:true  
+//     })
+//    }, 1000);
 
 }
 
+// for submenu links
+closeSub=()=>{
+    this.setState({
+       open:!this.state.open
+  })
+}
 
 
 
@@ -121,6 +127,7 @@ componentWillUnmount(){
             ...this.state,
             handleToggle:this.handleToggle,
             closeLink:this.closeLink,
+            closeSub:this.closeSub,
 
            
         }}>

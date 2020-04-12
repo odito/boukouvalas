@@ -13,7 +13,7 @@ export default class Navbar extends Component {
             <ProductConsumer>
 
     {value=>{
-        const {Links,SubLinks, isOpen,open,headerShow,handleToggle,closeLink}=value;
+        const {Links, SubLinks, isOpen, open, headerShow, handleToggle, closeLink, closeSub}=value;
         return(
             <nav className={headerShow ?'scrollNav':''}>
             <div className="logoBtn">
@@ -30,7 +30,7 @@ export default class Navbar extends Component {
                 </div>
             </div>
 
-            <div className={isOpen?"fix":'undefined'} onClick={closeLink}>
+            <div className={isOpen?"fix":'undefined'} >
               <ul className={isOpen ?" links openLinks":"links undefined"}>
                   {/* mapping menu links dinamically */}
                     {
@@ -39,7 +39,7 @@ export default class Navbar extends Component {
                     }))
                    }
 
-          <li><Link to="#">Υπηρεσιες <span><i className="fas fa-angle-down"></i></span></Link> 
+          <li onClick={closeSub}><Link to="#">Υπηρεσιες <span><i className="fas fa-angle-down"></i></span></Link> 
 
             <ul className={open?"submenu ":' newSubmenu'} onClick={this.loseLink} >
                    
