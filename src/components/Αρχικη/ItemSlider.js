@@ -41,7 +41,7 @@ export default class ItemSlider extends Component {
            
         },
         1400: { // these props will be applied when screen width is less than 1000px
-            slidesPerPage: 6,
+            slidesPerPage: 7,
             slidesPerScroll: 6,
             
            
@@ -54,15 +54,27 @@ export default class ItemSlider extends Component {
          
              
           <div className="single-img-item">
-          <img src="./images/itemsCarousel/item1.jpg" alt="img" />
+          <img src="./images/itemsCarousel/adidas.png" alt="img" />
           </div>
 
           <div className="single-img-item">
-          <img src="./images/itemsCarousel/item1.jpg" alt="img" />
+          <img src="./images/itemsCarousel/champion.png" alt="img" />
           </div>
 
           <div className="single-img-item">
-          <img src="./images/itemsCarousel/item1.jpg" alt="img" />
+          <img src="./images/itemsCarousel/ab.png" alt="img" />
+          </div>
+
+          <div className="single-img-item">
+          <img src="./images/itemsCarousel/eastpack.png" alt="img" />
+          </div>
+
+          <div className="single-img-item">
+          <img src="./images/itemsCarousel/folie.png" alt="img" />
+          </div>
+
+          <div className="single-img-item">
+          <img src="./images/itemsCarousel/nike.png" alt="img" />
           </div>
         
        
