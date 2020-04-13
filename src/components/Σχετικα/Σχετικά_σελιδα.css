@@ -1,0 +1,193 @@
+
+/*-----section shetika me emas-----  */
+.shetika-texts p span{
+    color:green;
+    font-weight: bold;
+}
+
+.shetika-texts{
+    padding:0;
+    margin:0;
+    margin-bottom: 30px;
+   
+}
+
+.shetika-img {
+    width: 100%;
+}
+
+.shetika-img img {
+    width: 100%;
+    display: block;
+   /* border: 1px solid gray; */
+   box-shadow: 1px 1px 4px black;
+   padding:1px;
+}
+
+/* responsive */
+@media screen and (min-width:664px){
+.shetika-center{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.shetika-texts{
+   
+    padding:0;
+    margin:0;
+   justify-content: center;
+   
+}
+
+.shetika-texts{
+    flex:0 0 60%;
+    align-self: flex-start;
+}
+.shetika-texts p {
+    margin-right: 10px;
+}
+
+.shetika-img{
+    flex:0 0 40%;
+}
+
+}
+
+
+@media screen and (min-width:964px){
+    .shetika-texts{
+        flex:0 0 70%;
+    }
+  
+    .shetika-img{
+        flex:0 0 30%;
+    }
+    
+    }
+
+/*-----end of section shetika me emas-----  */
+
+/*----- section oles oi ipiresies mas-----  */
+.ipiresies-single{
+  margin-bottom: 10px;
+  
+}
+
+.ipiresies-single p{
+
+   
+  width:100%;
+  margin:0 auto;
+
+  border:1px solid grey;
+  padding:5px;
+ 
+  }
+
+
+.ipiresies-single .fas{
+ color:var(--lightGreen);
+ margin-right: 10px;
+
+}
+
+
+@media screen and (min-width:664px){
+ .ipiresies-center{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+    
+ }
+
+ .ipiresies-single{
+     flex:0 0 calc(50%);
+     justify-content: center;
+     display: flex;
+     
+ }
+
+ .ipiresies p{
+
+ display: flex;
+ width:90%;
+ 
+ }
+
+}
+
+@media screen and (min-width:964px){
+   
+    .ipiresies p{
+    display: flex;
+    width:65%;
+
+    }
+   
+   }
+
+/*-----end of section oles oi ipiresies mas-----  */
+
+/*----- section κανονες-----  */
+.kanones-center{
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+
+}
+
+.single-kanonas{
+    margin-bottom: 30px;
+}
+
+.single-kanonas:last-of-type{
+    margin-bottom: 0;
+}
+
+.single-kanonas span{
+    font-size: 35px;
+    background-color: dodgerblue;
+    padding:10px 5px;
+    color: #fff;
+    border-radius: 50%;
+    
+}
+
+.single-kanonas .fas{
+    font-size: 45px;
+    width:70px;
+    
+}
+
+.single-kanonas p{
+    margin-top: 20px;
+    font-weight: bold;
+    
+}
+
+
+@media screen and (min-width:664px){
+    .kanones-center{
+        display: flex;
+        flex-direction: row;
+       text-align: center;
+       justify-content: space-evenly;
+        
+    }
+
+    .single-kanonas{
+        margin-bottom: 0px;
+    }
+
+    .single-kanonas p{
+        margin-top: 20px;
+        font-weight: bold;
+        
+    }
+
+}
+
+
+/*-----end of section κανονες-----  */
+

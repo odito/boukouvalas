@@ -81,7 +81,10 @@ p{
    .prosfora:hover .underline,
    .sinergates:hover .underline,
    .pelates:hover .underline,
-   .footer:hover .underline{
+   .footer:hover .underline,
+   .shetika:hover .underline,
+   .ipiresies:hover .underline,
+   .kanones:hover .underline{
     /* width:200px; */
      
      border:1px solid green;

@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Links} from './Data';
 import {SubLinks} from './Data';
 import {images} from './ImgData';
-
+import {ipiresies} from './Data';
 
 
 
@@ -18,7 +18,10 @@ const ProductContext = React.createContext();
      open:true,
      headerShow:false,
      images:[],
-     egatastaseisGal:[]
+     electricalGal:[],
+     ipiresies:ipiresies,
+     
+    
       
    }
 
@@ -32,7 +35,6 @@ const ProductContext = React.createContext();
 }
 
 
-
 setProducts(images){
     
 let basicImages=images.map(item=>{
@@ -40,8 +42,8 @@ let basicImages=images.map(item=>{
         return item;
     })
 
-let egatastaseisGal = basicImages.filter(item=>item.category==="ena")
-
+let electricalGal = basicImages.filter(item=>item.category==="ena")
+    
 
 
 
@@ -49,7 +51,7 @@ let egatastaseisGal = basicImages.filter(item=>item.category==="ena")
 this.setState({
 
     images:basicImages,
-    egatastaseisGal:egatastaseisGal,
+    electricalGal:electricalGal,
  
   })
 

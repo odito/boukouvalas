@@ -51,8 +51,7 @@ export default class ItemSlider extends Component {
         
       
       >
-         
-             
+           
           <div className="single-img-item">
           <img src="./images/itemsCarousel/adidas.png" alt="img" />
           </div>

@@ -76,7 +76,4 @@ export const images = [
     
 },
 
-
-
-
 ]

@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Σχετικα_σελιδα from '../components/Σχετικα/Σχετικα_σελιδα';
 
 export default function Σχετικα() {
     return (
-        <div>
-            hello from sxetika component
-        </div>
+       <React.Fragment>
+        <Σχετικα_σελιδα />
+       </React.Fragment>
     )
 }
