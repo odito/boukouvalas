@@ -52,7 +52,7 @@ p{
     
 }
 
-/* title */
+/* -----common title----- */
 
 .title{
     width: 100%;
@@ -64,12 +64,9 @@ p{
     color:#757575;
     font-size: 13px;
  
-  
-    
    }
    
-   .underline{
-       
+   .underline{ 
        text-align: center;
        margin:5px auto;
        width:0;
@@ -84,12 +81,174 @@ p{
    .footer:hover .underline,
    .shetika:hover .underline,
    .ipiresies:hover .underline,
-   .kanones:hover .underline{
+   .kanones:hover .underline,
+   .hlektrikes-egatastaseis:hover .underline,
+   .sistimata-asfaleias:hover .underline,
+   .egatastaseis-fotovoltaika:hover .underline,
+   .electric-gallery:hover .underline,
+   .fotovoltaic-gallery:hover .underline,
+   .sameTitleHover:hover .underline{
     /* width:200px; */
      
      border:1px solid green;
    }
 
 
-/* title */
+   .egatastaseis-fotovoltaika:hover .underline{
+    width:300px;
+     border:1px solid green;
+   }
 
+
+/* -----end of common title----- */
+
+
+
+/* -----common box items egatastaseis----- */
+
+
+.single-boxItem{
+   margin: 60px 0;
+    position: relative;
+    box-shadow: 1px 1px 4px grey;
+    border:1px solid rgb(214, 211, 211);
+    background-color: #fff;  
+}
+
+.single-boxItem .single-texts{
+  padding:10px;
+  margin:10px 0;
+}
+
+.single-boxItem .single-texts h3{
+  font-style: italic;
+  text-align: center;
+  color:var(--lightDark);
+  text-decoration: underline;
+  margin-bottom: 10px;
+  font-weight: normal;
+  }
+
+.single-boxItem:nth-of-type(1){
+    margin-top:30px; 
+}
+
+
+.single-boxItem:last-of-type{
+    margin-bottom: 0px;
+}
+
+.single-boxItem .single-icon{
+    font-size: 40px;
+    background-color: dodgerblue;
+    width:69px;
+    margin:0 auto;
+    text-align: center;
+    height: 65px;
+    border-radius: 50%;
+    margin-top: -30px;
+    position: relative;
+    
+}
+
+.single-boxItem .single-icon:after{
+  content:"";
+  display: block;
+  width:75px;
+  height:69px;
+  border-radius: 50%;
+  border:3px solid dodgerblue;
+  position: absolute;
+  top:-5px;
+  left:-6px;  
+}
+
+.single-boxItem .single-icon .fas{
+    color:#fff;
+    border-radius: 50%;
+    padding:10px;
+
+}
+
+.single-boxItem:hover .single-icon::after{
+    animation: pulse 1.5s ease-in-out infinite;
+    box-shadow:0 0 4px 2px rgb(69,218,32);
+    transition:all 0.5s ease-in-out;
+}
+
+.single-boxItem:hover{
+    /* box-shadow: 0 0 9px 0 rgb(131,131,131); */
+    transition:all 0.5s ease-in-out;
+}
+
+@keyframes pulse{
+    0%{
+       
+        transform: scale(1);
+    }
+
+    80%{
+    
+        transform: scale(1.05);
+    }
+
+    100%{
+   
+        transform: scale(1);
+    }
+}
+
+
+@media screen and (min-width:664px){
+    .sameItems-center{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .single-boxItem{
+        margin:30px 0;
+        flex:0 0 calc(50% - 10px);
+    }
+
+    .single-boxItem:nth-of-type(1){
+      
+        margin-top:0px 0;
+        position: relative;
+       
+    }
+
+    .single-boxItem:last-of-type{
+        margin-bottom:auto;
+    }
+
+}
+
+@media screen and (min-width:964px){
+    .sameItems-center{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .single-boxItem{
+        margin:30px 0;
+        flex:0 0 calc(33.3% - 20px);
+        
+    }
+
+    .single-boxItem:nth-of-type(1){
+      
+        margin-top:30px;
+        position: relative;
+       
+    }
+
+    .single-boxItem:last-of-type{
+        margin-bottom:auto ;
+    }
+
+
+}
+
+/* -----end of common box items egatastaseis----- */

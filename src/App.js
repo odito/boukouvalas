@@ -10,7 +10,7 @@ import Αρχική from './Pages/Αρχική';
 import Σχετικα from './Pages/Σχετικα';
 import Ηλεκτρολογικα from './Pages/Ηλεκτρολογικα';
 import Φωτοβολταϊκα from './Pages/Φωτοβολταϊκα';
-import Συστ_Ασφαλειας from './Pages/Συστ_Ασφαλείας';
+import ΣυστΑσφαλειας from './Pages/ΣυστΑσφαλείας';
 import Πιστοποιητικα from './Pages/Πιστοποιητικα';
 import Βλαβες from './Pages/Βλάβες';
 import Επικοινωνια from './Pages/Επικοινωνια';
@@ -33,7 +33,7 @@ function App() {
          <Route exact path='/σχετικα' component={Σχετικα}  />
          <Route exact path='/ηλεκτρολογικα' component={Ηλεκτρολογικα}  />
          <Route exact path='/φωτοβολταϊκα' component={Φωτοβολταϊκα}  />
-         <Route exact path='/συστ_ασφαλειας' component={Συστ_Ασφαλειας}  />
+         <Route exact path='/συστ_ασφαλειας' component={ΣυστΑσφαλειας}  />
          <Route exact path="/πιστοποιητικα" component={Πιστοποιητικα} />
          <Route exact path='/βλαβες' component={Βλαβες}  />
          <Route exact path='/επικοινωνια' component={Επικοινωνια}  />

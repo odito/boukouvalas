@@ -6,7 +6,7 @@ export const images = [
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "ne ",
-    category:"ena"
+    category:"basic"
 },
 {
         src: "./images/lightbox/im2.jpg",
@@ -14,7 +14,7 @@ export const images = [
         thumbnailWidth: 320,
         thumbnailHeight: 212,
         caption: "BoatsJeshu John ",
-        category:"ena"
+        category:"basic"
 },
 
 {
@@ -24,7 +24,7 @@ export const images = [
     thumbnailHeight: 212,
     customOverlay:"hghghghghg",
     caption: "BoatsJeshu John ",
-    category:"ena"
+    category:"basic"
     
 },
 
@@ -36,7 +36,7 @@ export const images = [
         thumbnailWidth: 320,
         thumbnailHeight: 212,
         caption: "BoatsJeshu John ",
-        category:"ena"
+        category:"basic"
       
 },
 {
@@ -45,7 +45,7 @@ export const images = [
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
-    category:"dio"
+    category:"basic"
     
 },
 {
@@ -54,7 +54,7 @@ export const images = [
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
-    category:"dio"
+    category:"basic"
     
 },
 {
@@ -63,7 +63,7 @@ export const images = [
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
-    category:"tria"
+    category:"basic"
     
 },
 {
@@ -72,8 +72,315 @@ export const images = [
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
-    category:"tria"
+    category:"basic"
     
 },
+
+// electrical images gallery
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "Ηλεκτρολογικη εγκατασταση ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 320,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im4.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"electrical"
+    
+},
+
+
+
+// fotovoltaic images gallery
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "Ηλεκτρολογικη εγκατασταση ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 320,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"fotovoltaic"
+    
+},
+
+
+// sistimata asfaleias images gallery
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "Ηλεκτρολογικη εγκατασταση ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 320,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/im3.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"sistimata"
+    
+},
+
 
 ]

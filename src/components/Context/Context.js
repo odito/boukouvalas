@@ -3,6 +3,10 @@ import {Links} from './Data';
 import {SubLinks} from './Data';
 import {images} from './ImgData';
 import {ipiresies} from './Data';
+import {hlektrologikaItems} from './Data';
+import {sustimataItems} from './Data';
+
+
 
 
 
@@ -19,7 +23,11 @@ const ProductContext = React.createContext();
      headerShow:false,
      images:[],
      electricalGal:[],
+     fotovoltaicGal:[],
+     sistimataGal:[],
      ipiresies:ipiresies,
+     hlektrologikaItems:hlektrologikaItems,
+     sustimataItems:sustimataItems,
      
     
       
@@ -37,21 +45,26 @@ const ProductContext = React.createContext();
 
 setProducts(images){
     
-let basicImages=images.map(item=>{
+let allImages=images.map(item=>{
     
         return item;
     })
 
-let electricalGal = basicImages.filter(item=>item.category==="ena")
-    
+
+let homeImages=allImages.filter(item=>item.category==="basic");
+let electricalGal = allImages.filter(item=>item.category==="electrical");
+let fotovoltaicGal = allImages.filter(item=>item.category==="fotovoltaic");
+let sistimataGal = allImages.filter(item=>item.category==="sistimata");   
 
 
 
 
 this.setState({
 
-    images:basicImages,
+    images:homeImages,
     electricalGal:electricalGal,
+    fotovoltaicGal:fotovoltaicGal,
+    sistimataGal:sistimataGal,
  
   })
 

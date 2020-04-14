@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import ΦωτοβολταϊκαΣελιδα from '../components/Φωτοβολταϊκα/ΦωτοβολταϊκαΣελιδα';
 
 export default function Φωτοβολταϊκα() {
     return (
         <div>
-            hello from fotovoltaika component
+           <ΦωτοβολταϊκαΣελιδα />
         </div>
     )
 }

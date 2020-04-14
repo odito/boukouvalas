@@ -1,10 +1,10 @@
 import React from 'react';
-import Σχετικα_σελιδα from '../components/Σχετικα/Σχετικα_σελιδα';
+import ΣχετικαΣελιδα from '../components/Σχετικα/ΣχετικαΣελιδα';
 
 export default function Σχετικα() {
     return (
        <React.Fragment>
-        <Σχετικα_σελιδα />
+        <ΣχετικαΣελιδα />
        </React.Fragment>
     )
 }

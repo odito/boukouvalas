@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from '../Title';
 
-export default function Shetika_me_emas() {
+export default function ΣχετικαΜεΕμας() {
     return (
        <section className="shetika">
            <Title title="Σχετικά με εμας" width="150px" />

@@ -1,6 +1,6 @@
 import React from 'react'
-import Shetika_me_emas from './Shetika_me_emas';
-import './Σχετικά_σελιδα.css';
+import ΣχετικαΜεΕμας from './ΣχετικαΜεΕμας';  
+import './ΣχετικάΣελιδα.css';
 import Ipiresies from './Ipiresies';
 import Kanones from './Kanones';
 import Footer from '../Footer';
@@ -8,10 +8,10 @@ import Footer from '../Footer';
 export default function Σχετικα() {
     return (
         <div>
-            <Shetika_me_emas />
+            <ΣχετικαΜεΕμας />
             <Ipiresies />
             <Kanones />
-            <Footer />
+            <Footer /> 
             
         </div>
     )
