@@ -5,7 +5,7 @@ import {images} from './ImgData';
 import {ipiresies} from './Data';
 import {hlektrologikaItems} from './Data';
 import {sustimataItems} from './Data';
-
+import {vlavesItems} from './Data';
 
 
 
@@ -25,9 +25,11 @@ const ProductContext = React.createContext();
      electricalGal:[],
      fotovoltaicGal:[],
      sistimataGal:[],
+     vlavesGal:[],
      ipiresies:ipiresies,
      hlektrologikaItems:hlektrologikaItems,
      sustimataItems:sustimataItems,
+     vlavesItems:vlavesItems,
      
     
       
@@ -55,7 +57,7 @@ let homeImages=allImages.filter(item=>item.category==="basic");
 let electricalGal = allImages.filter(item=>item.category==="electrical");
 let fotovoltaicGal = allImages.filter(item=>item.category==="fotovoltaic");
 let sistimataGal = allImages.filter(item=>item.category==="sistimata");   
-
+let vlavesGal = allImages.filter(item=>item.category==="vlaves");  
 
 
 
@@ -65,6 +67,7 @@ this.setState({
     electricalGal:electricalGal,
     fotovoltaicGal:fotovoltaicGal,
     sistimataGal:sistimataGal,
+    vlavesGal:vlavesGal
  
   })
 

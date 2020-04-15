@@ -1,0 +1,61 @@
+
+
+/* -----Πιστοποιητικά----- */
+
+.pistopoihtika-img{
+   width:100%; 
+   margin-bottom: 30px;
+}
+
+.pistopoihtika-img img{
+    width:100%; 
+    box-shadow: 1px 1px 4px 1px gray;
+ }
+
+ @media screen and (min-width:664px){
+.pistopoihtika-center{
+display: flex;
+flex-wrap: wrap;  
+}
+
+.pistopoihtika-img{
+
+margin-bottom: 0px;
+flex:1;
+order:1;
+}
+
+.pistopoihtika-texts{
+flex:0 0 60%;
+margin-right: 10px;
+
+}
+ }
+
+/* -----end of Πιστοποιητικά----- */
+
+/* -----Τροπος εκδωσης section----- */
+
+
+ .ekdosh-single{
+     margin-bottom: 20px;
+ }
+
+ .ekdosh-single:last-child{
+    margin-bottom:0px;
+}
+
+ .ekdosh-single p{
+
+  font-weight:600;
+ }
+
+ .ekdosh-single .fas{
+    font-size: 18px; 
+    margin-right: 5px;
+    color: var(--lightGreen);
+ }
+
+
+
+/* -----end of Τροπος εκδωσης section----- */

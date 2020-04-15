@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import ΒλαβεςΣελιδα from '../components/Βλαβες/ΒλαβεςΣελιδα';
 
 export default function Βλάβες() {
     return (
-        <div>
-            hello from blabes component
-        </div>
+        <React.Fragment>
+            <ΒλαβεςΣελιδα />
+        </React.Fragment>
     )
 }

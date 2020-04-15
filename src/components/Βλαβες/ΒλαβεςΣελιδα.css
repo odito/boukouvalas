@@ -1,0 +1,22 @@
+
+/* -----vlaves section----- */
+.vlaves-center .single-vlavh{
+    margin-top: 20px;
+}
+
+.single-vlavh h3{
+ margin-bottom: 5px;
+ text-decoration: underline;
+ color:var(--lightRed);
+ font-style: italic;
+}
+
+@media screen and (min-width:664px){
+    /* .single-vlavh p{
+      line-height: 1.5rem;
+      font-size:18px;
+       } */
+}
+
+/* -----end of vlaves section----- */
+

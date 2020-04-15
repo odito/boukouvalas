@@ -383,4 +383,106 @@ export const images = [
 },
 
 
+// -----ΒΛΑΒΕΣ ΓΚΑΛΕΡΙ------
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 380,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 380,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 380,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 380,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 380,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+{
+    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    thumbnailWidth: 350,
+    thumbnailHeight: 212,
+    caption: "BoatsJeshu John ",
+    category:"vlaves"
+    
+},
+
+
 ]

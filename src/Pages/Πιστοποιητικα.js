@@ -1,9 +1,9 @@
 import React from 'react'
-
+import ΠιστοποιητικαΣελιδα from '../components/Πιστοποιητικα/ΠιστοποιητικαΣελιδα';
 export default function Πιστοποιητικα() {
     return (
-        <div>
-            hello from pistopoithika component
-        </div>
+        <React.Fragment>
+             <ΠιστοποιητικαΣελιδα />
+        </React.Fragment>
     )
 }

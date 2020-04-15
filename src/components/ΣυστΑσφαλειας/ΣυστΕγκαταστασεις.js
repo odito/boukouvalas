@@ -10,7 +10,7 @@ export default function ΣυστΕγκαταστασεις() {
         const {sustimataItems}=value;
     return(
         <section className="sistimata-asfaleias">
-        <Title title="Συστήματα ασφαλείας" width='250px' />
+        <Title title="Συστήματα ασφαλείας" width='210px' />
         <div className="inside-container">
             <div className="sameItems-center">
                

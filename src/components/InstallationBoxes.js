@@ -12,7 +12,7 @@ export default function InstallationBoxes(props) {
 
             <div className="single-texts">
                 <h3>{item.title}</h3>
-                <p>{item.paragraph} </p>
+    <p>{item.paragraph}<b>{item.boltText}</b> </p>
             </div>
     </div>
         
