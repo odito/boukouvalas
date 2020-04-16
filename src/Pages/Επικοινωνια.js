@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import ΕπικοινωνιαΣελιδα from '../components/Επικοινωνια/ΕπικοινωνιαΣελιδα';
 
 export default function Επικοινωνια() {
     return (
-        <div>
-            hello from epikoinvnia
-        </div>
+       <React.Fragment>
+           <ΕπικοινωνιαΣελιδα />
+       </React.Fragment>
     )
 }

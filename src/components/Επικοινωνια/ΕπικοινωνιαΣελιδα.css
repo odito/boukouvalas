@@ -1,0 +1,171 @@
+
+/* -----ΕΠΙΚΟΙΝΩΝΙΑ SECTION----- */
+.epikoinonia-center{
+    background: rgb(245, 245, 245);
+    padding:10px;
+}
+.epikoinonia-tab{
+  
+    /* background: rgb(255, 255, 255); */
+   
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0 auto;
+    margin-bottom: 40px;
+}
+
+.epikoinonia-tab h3{
+ font-weight: 600;
+ letter-spacing: 0.2rem;
+   font-style: italic;
+  
+  
+}
+
+.epikoinoniaTab-info{
+    margin-top: 15px; 
+}
+
+.epikoinoniaTab-info li{
+    margin-top: 10px;
+}
+
+.epikoinoniaTab-info li{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.epikoinoniaTab-info .fas,.epikoinoniaTab-info .far{
+    font-size:20px;
+    width: 40px;
+    text-align: center;
+    background-color: rgb(211, 211, 211);
+   padding: 5px 0;
+   margin-right: 10px;
+  
+}
+
+.epikoinoniaTab-info .fa-phone-alt{
+    color: green;
+}
+
+.epikoinoniaTab-info .fa-envelope{
+    color: var(--lightRed);
+}
+
+
+
+.epikoinonia-form form .inputs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+.epikoinonia-form form .inputs .single{
+  flex:0 0 calc(50% - 10px);
+  margin-bottom: 20px;
+  }
+
+  .epikoinonia-form form input{
+    width: 100%;
+    padding:7px;
+    border: none;
+   border:1px solid gray;
+    outline: none;
+  }
+
+  .epikoinonia-form form .single div{
+   margin-top: 5px;
+  
+  }
+
+ 
+
+.epikoinonia-form textarea{
+width: 100%;
+border:1px solid gray;
+padding: 5px;
+}
+
+.msg{
+    color: green;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    display: none;
+}
+
+.error{
+    color: red; 
+}
+
+.buttonForm{
+   margin-top: 20px;
+   text-align: center;
+  
+}
+.buttonForm button{
+    padding: 7px 10px;
+    font-size:16px;
+    width: 180px;
+    cursor: pointer;
+ 
+    border:1px solid green;
+  outline: none;
+}
+
+.buttonForm button:hover{
+  color:#fff;
+}
+
+@media screen and (min-width:664px){
+
+    .epikoinonia-tab h3{
+        font-weight: 600;
+        letter-spacing: 0.5rem; 
+       }
+
+    .epikoinonia-center{
+        display: flex;
+        background: none;
+        justify-content: space-between;
+        background: rgb(238, 238, 238);
+    }
+
+    .epikoinonia-tab{
+      
+        /* background: rgb(255, 255, 255); */
+      
+       
+        
+        display:inline-block;
+    
+       
+        margin:0 0;
+        margin-bottom:0px;
+        margin-right: 10px;
+    }
+
+    .epikoinonia-form{
+        flex:0 0 55%;
+    }
+
+
+}
+
+/* -----END OF ΕΠΙΚΟΙΝΩΝΙΑ SECTION----- */
+
+/* -----ΧΑΡΤΗΣ SECTION----- */
+.hartis-center iframe{
+ box-shadow: 1px 1px 4px 1px grey;
+}
+
+
+
+/* -----END OF ΧΑΡΤΗΣ SECTION----- */
