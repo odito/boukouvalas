@@ -30,7 +30,7 @@ export default class Navbar extends Component {
                 </div>
             </div>
 
-            <div className={isOpen?"fix":'undefined'} >
+            <div className={isOpen?"fix":'undefined'}>
               <ul className={isOpen ?" links openLinks":"links undefined"}>
                   {/* mapping menu links dinamically */}
                     {

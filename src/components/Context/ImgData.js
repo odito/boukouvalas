@@ -385,101 +385,101 @@ export const images = [
 
 // -----ΒΛΑΒΕΣ ΓΚΑΛΕΡΙ------
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη1.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη1.jpg",
     thumbnailWidth: 380,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Βραχυκύκλωμα απο υγρά ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη2.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη2.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Καμμένη ασφάλεια ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη3.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη3.jpg",
     thumbnailWidth: 380,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "προβληματική σύνδεση ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη4.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη4.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Καμμένο φις ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη5.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη5.jpg",
     thumbnailWidth: 380,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Βραχυκύκλωμα Πίνακα ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη2.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη6.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη6.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Καμμμένες ασφάλειες ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη7.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη7.jpg",
     thumbnailWidth: 380,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Μη λειτουργική πρίζα ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη8.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη8.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Καμμένος πίνακας ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη9.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη9.jpg",
     thumbnailWidth: 380,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: " Καμμένες ασφάλειες ",
     category:"vlaves"
     
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/βλαβες/βλαβη1.jpg",
+    src: "./images/lightbox/βλαβες/pictures750x450/βλαβη10.jpg",
+    thumbnail: "./images/lightbox/βλαβες/thubnails/βλαβη10.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Πατημένα καλώδια",
     category:"vlaves"
     
 },
