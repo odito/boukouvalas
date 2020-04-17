@@ -1,29 +1,29 @@
 
 export const images = [
     {
-    src: "./images/lightbox/im1.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+        src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη1.jpg",
+        thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη1.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    caption: "ne ",
+    caption: "Εγκατάστση οικοδομής ",
     category:"basic"
 },
 {
-        src: "./images/lightbox/im2.jpg",
-        thumbnail: "./images/lightbox/im2.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη2.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη2.jpg",
         thumbnailWidth: 320,
         thumbnailHeight: 212,
-        caption: "BoatsJeshu John ",
+        caption: "Εγκατάσταση inverter ",
         category:"basic"
 },
 
 {
-    src: "./images/lightbox/im3.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη3.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη3.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     customOverlay:"hghghghghg",
-    caption: "BoatsJeshu John ",
+    caption: "Εγκατάσταση αυτόνομου συστήματος ",
     category:"basic"
     
 },
@@ -31,47 +31,47 @@ export const images = [
 
 
 {
-        src: "./images/lightbox/im4.jpg",
-        thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη4.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη4.jpg",
         thumbnailWidth: 320,
         thumbnailHeight: 212,
-        caption: "BoatsJeshu John ",
+        caption: "Αλλαγή ηλεκτρικής αντίστασης ",
         category:"basic"
       
 },
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη5.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη5.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Φωτοβολταϊκο σύστημα",
     category:"basic"
     
 },
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im2.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη6.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη6.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Εγκατάσταση φωτισμού ",
     category:"basic"
     
 },
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη7.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη7.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Εγκατάσταση μετριτών ",
     category:"basic"
     
 },
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/Αρχικη/pictures750x450/αρχικη8.jpg",
+    thumbnail: "./images/lightbox/Αρχικη/thubnails/αρχικη8.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    caption: "BoatsJeshu John ",
+    caption: "Εγκατάσταση φωτοβολταϊκών ",
     category:"basic"
     
 },
