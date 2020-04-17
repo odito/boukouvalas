@@ -42,9 +42,9 @@ return i;
     
 return(
                         
- <div className="electric-gallery">
+ <div className="vlaves-gallery">
 
-<Title title="Βλάβες που διορθώσαμε" width="240px" />
+<Title title="Βλάβες που διορθώσαμε" width="" />
 <div className="inside-container">
 <div className="electric-center" style={{
  overflow:'hidden'

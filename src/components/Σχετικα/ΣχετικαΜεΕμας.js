@@ -4,7 +4,7 @@ import Title from '../Title';
 export default function ΣχετικαΜεΕμας() {
     return (
        <section className="shetika">
-           <Title title="Σχετικά με εμας" width="150px" />
+           <Title title="Σχετικά με εμας" width="" />
            <div className="inside-container">
                <div className="shetika-center">
                    <div className="shetika-texts">

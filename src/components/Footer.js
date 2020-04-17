@@ -12,7 +12,7 @@ export default function Footer() {
                const {Links,SubLinks}=value;
         return(
         <section className="footer">
-        <Title title="Επικοινωνία" width="120px" />
+        <Title title="Επικοινωνία" width="" />
         <div className="foot">
             <div className="inside-container">
                 <div className="center-footer">

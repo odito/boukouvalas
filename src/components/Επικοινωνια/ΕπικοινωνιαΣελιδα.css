@@ -1,4 +1,21 @@
 
+
+/* hovwring title transition */
+.epikoinonia:hover .underline{
+    width:120px;
+     border:1px solid green;
+   }
+ 
+   .hartis:hover .underline{
+    width:80px;
+     border:1px solid green;
+   }
+ 
+   /* end of hovering title transition */
+
+
+
+
 /* -----ΕΠΙΚΟΙΝΩΝΙΑ SECTION----- */
 .epikoinonia-center{
     background: rgb(245, 245, 245);

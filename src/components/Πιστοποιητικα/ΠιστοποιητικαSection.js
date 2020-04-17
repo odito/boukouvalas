@@ -4,7 +4,7 @@ import Title from '../Title';
 export default function ΠιστοποιητικαSection() {
     return (
         <section className="pistopoihtika">
-        <Title title="Πιστοποιητικά" width="150px" />
+        <Title title="Πιστοποιητικά" width="" />
         <div className="inside-container">
         <div className="pistopoihtika-center">
           <div className="pistopoihtika-img">

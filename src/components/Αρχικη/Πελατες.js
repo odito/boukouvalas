@@ -6,7 +6,7 @@ import Testimonial from './Testimonial';
 export default function Πελατες() {
     return (
        <section className="pelates">
-           <Title title="Απόψεις πελατών" width="170px" />
+           <Title title="Απόψεις πελατών" width="" />
            <div className="inside-container">
                <div className="pelates-center">
                    <Testimonial />

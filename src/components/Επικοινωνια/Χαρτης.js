@@ -4,7 +4,7 @@ import Title from '../Title';
 export default function Χαρτης() {
     return (
         <div className='hartis'>
-          <Title title="Χάρτης" width="70px"  />
+          <Title title="Χάρτης" width=""  />
           <div className="inside-container">
               <div className="hartis-center">
               

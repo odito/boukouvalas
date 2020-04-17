@@ -39,9 +39,9 @@ return i;
     
 return(
                         
- <div className="electric-gallery">
+ <div className="sistimata-gallery">
 
-    <Title title="Εργα εγκααταστάσεων" width="210px"  />
+    <Title title="Εργα εγκαταστάσεων" width=""  />
 <div className="inside-container">
 <div className="electric-center" style={{
  overflow:'hidden'

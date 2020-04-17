@@ -1,4 +1,28 @@
 
+/* hovwring title transition */
+.erga-egatastaseon:hover .underline{
+    width:200px;
+     border:1px solid green;
+   }
+
+   .prosfora:hover .underline{
+    width:150px;
+     border:1px solid green;
+   }
+
+   .sinergates:hover .underline{
+    width:150px;
+     border:1px solid green;
+   }
+
+   .pelates:hover .underline{
+    width:170px;
+     border:1px solid green;
+   }
+   /* end of hovering title transition */
+
+
+
 /* -----section erga-egatastaseon----- */
 .erga-center .erga-shetika{
     border:1px solid lightgray;

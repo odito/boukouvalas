@@ -1,4 +1,19 @@
 
+/* hovwring title transition */
+.pistopoihtika:hover .underline{
+   width:150px;
+    border:1px solid green;
+  }
+
+  .ekdosh:hover .underline{
+   width:160px;
+    border:1px solid green;
+  }
+
+  /* end of hovering title transition */
+
+
+
 
 /* -----Πιστοποιητικά----- */
 

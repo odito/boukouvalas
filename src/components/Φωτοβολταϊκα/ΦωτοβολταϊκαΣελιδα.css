@@ -1,4 +1,17 @@
 
+/* hovwring title transition */
+.egatastaseis-fotovoltaika:hover .underline{
+    width:300px;
+     border:1px solid green;
+   }
+
+   .fotovoltaic-gallery:hover .underline{
+    width:210px;
+     border:1px solid green;
+   }
+
+   /* end of hovering title transition */
+
 
 
 /* ----- box items fotovoltaika----- */

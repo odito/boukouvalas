@@ -9,7 +9,7 @@ export default function ΒλαβεςSection() {
               const{vlavesItems}=value;
               return(
                 <section className="vlaves">
-                <Title title="Βλάβες" width="80px" />
+                <Title title="Βλάβες" width="" />
                 <div className="inside-container">
                     <div className="vlaves-center">
                        <div className="intro">

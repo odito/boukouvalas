@@ -4,7 +4,7 @@ import Title from '../Title';
 export default function Kanones() {
     return (
         <section className="kanones">
-            <Title title=" Βασικοί μας κανόνες" width="200px" />
+            <Title title=" Βασικοί μας κανόνες" width="" />
             <div className="inside-container">
                 <div className="kanones-center">
                     <div className="single-kanonas">

@@ -13,7 +13,7 @@ export default class ΕπαφηSection extends Component {
         
         return (
            <section className="epikoinonia">
-            <Title title="Επικοινωνία" width="120px" />
+            <Title title="Επικοινωνία" width="" />
              <div className="inside-container">
               <div className="epikoinonia-center">
               <div className="epikoinonia-tab">

@@ -1,5 +1,21 @@
 
 
+/* hovwring title transition */
+.hlektrikes-egatastaseis:hover .underline{
+    width:250px;
+     border:1px solid green;
+   }
+
+   .electric-gallery:hover .underline{
+    width:220px;
+     border:1px solid green;
+   }
+
+   /* end of hovering title transition */
+
+
+
+
 .electric-center{
    
     margin:0 auto;

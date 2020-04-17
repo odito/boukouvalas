@@ -9,7 +9,7 @@ export default function Εργα() {
             
          <section className="erga-egatastaseon">
 
-          <Title title="Εργα εγκαταστάσεων" width="200px" />
+          <Title title="Εργα εγκαταστάσεων" width="" />
          <div className="inside-container">
            
            <div className="erga-center">

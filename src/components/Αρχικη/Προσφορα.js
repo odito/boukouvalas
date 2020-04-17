@@ -45,7 +45,7 @@ state={
        
         return (
             <div className="prosfora">
-                <Title title="Τι προσφερουμε" width="150px" />
+                <Title title="Τι προσφερουμε" width="" />
                 <div className="back-img" style={{
                  background:`linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,3)) , url('/images/cars.jpg') center/cover no-repeat`
     

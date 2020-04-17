@@ -1,4 +1,19 @@
 
+/* hovwring title transition */
+.vlaves:hover .underline{
+    width:80px;
+     border:1px solid green;
+   }
+ 
+   .vlaves-gallery:hover .underline{
+    width:240px;
+     border:1px solid green;
+   }
+ 
+   /* end of hovering title transition */
+
+
+
 /* -----vlaves section----- */
 .vlaves-center .single-vlavh{
     margin-top: 20px;

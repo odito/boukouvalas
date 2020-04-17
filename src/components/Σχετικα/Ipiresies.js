@@ -9,7 +9,7 @@ export default function Ipiresies() {
           const{ipiresies} = value;
           return(
             <section className="ipiresies">
-            <Title title=" Ολες οι υπηρεσίες μας" width="220px" />
+            <Title title=" Ολες οι υπηρεσίες μας" width="" />
           <div className="inside-container">
             <div className="ipiresies-center">
         

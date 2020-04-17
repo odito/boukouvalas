@@ -4,7 +4,7 @@ import Title from '../Title'
 export default function ΕκδοσηSection() {
     return (
       <section className="ekdosh">
-          <Title title="Τρόπος έκδωσης" width="160px" />
+          <Title title="Τρόπος έκδωσης" width="" />
           <div className="inside-container">
             <div className="ekdosh-center">
                 <div className="ekdosh-icon">

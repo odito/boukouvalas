@@ -5,7 +5,7 @@ import ItemSlider from './ItemSlider';
 export default function Συνεργατες() {
     return (
        <section className="sinergates">
-         <Title title="Συνεργάτες μας" width="150px" />
+         <Title title="Συνεργάτες μας" width="" />
          <div className="inside-container">
              <div className="sinergates-center">
                <div className="logo-slider">

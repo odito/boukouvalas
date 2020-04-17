@@ -11,7 +11,7 @@ export default function HlektrikesEgatastaseis() {
         const {hlektrologikaItems}=value;
     return(
         <section className="hlektrikes-egatastaseis">
-        <Title title="Ηλεκτρικές εγκαταστάσεις" width='250px' />
+        <Title title="Ηλεκτρικές εγκαταστάσεις" width='' />
         <div className="inside-container">
             <div className="sameItems-center">
                

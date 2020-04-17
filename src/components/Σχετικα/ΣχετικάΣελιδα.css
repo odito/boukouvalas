@@ -1,4 +1,25 @@
 
+
+/* hovwring title transition */
+.shetika:hover .underline{
+    width:150px;
+     border:1px solid green;
+   }
+
+   .ipiresies:hover .underline{
+    width:220px;
+     border:1px solid green;
+   }
+
+   .kanones:hover .underline{
+    width:200px;
+     border:1px solid green;
+   }
+
+   /* end of hovering title transition */
+
+
+
 /*-----section shetika me emas-----  */
 .shetika-texts p span{
     color:green;

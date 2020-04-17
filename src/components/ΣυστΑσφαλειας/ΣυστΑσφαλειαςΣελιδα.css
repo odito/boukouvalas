@@ -1,0 +1,14 @@
+
+/* hovwring title transition */
+.sistimata-asfaleias:hover .underline{
+    width:210px;
+     border:1px solid green;
+   }
+ 
+   .sistimata-gallery:hover .underline{
+    width:210px;
+     border:1px solid green;
+   }
+ 
+   /* end of hovering title transition */
+ 
