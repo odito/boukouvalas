@@ -41,7 +41,7 @@ return(
                         
  <div className="electric-gallery">
 
-    <Title title="Εργα εγκααταστάσεων" width=""  />
+    <Title title="Εργα εγκαταστάσεων" width=""  />
 <div className="inside-container">
 <div className="electric-center" style={{
  overflow:'hidden'

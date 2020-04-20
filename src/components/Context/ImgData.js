@@ -78,8 +78,8 @@ export const images = [
 
 // electrical images gallery
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα1.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα1.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "Ηλεκτρολογικη εγκατασταση ",
@@ -88,8 +88,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα2.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα2.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -98,8 +98,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα3.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα3.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -108,8 +108,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα4.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα4.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -118,8 +118,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα5.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα5.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -128,8 +128,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα6.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα6.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -138,8 +138,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα7.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα7.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -148,8 +148,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα8.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα8.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -158,8 +158,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα9.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα9.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -168,8 +168,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im4.jpg",
+    src: "./images/lightbox/ηλεκτρικα/pictures750x450/ηλεκτρικα10.jpg",
+    thumbnail: "./images/lightbox/ηλεκτρικα/thubnails/ηλεκτρικα10.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -181,8 +181,8 @@ export const images = [
 
 // fotovoltaic images gallery
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα1.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα1.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "Ηλεκτρολογικη εγκατασταση ",
@@ -191,8 +191,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα2.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα2.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -201,8 +201,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα3.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα3.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -211,8 +211,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα4.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα4.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -221,8 +221,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα5.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα5.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -231,8 +231,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα6.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα6.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -241,8 +241,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα7.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα7.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -251,8 +251,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα8.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα8.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -261,8 +261,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα9.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα9.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -271,8 +271,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im1.jpg",
+    src: "./images/lightbox/Φωτοβολταϊκα/pictures750x450/φωτοβολταϊκα10.jpg",
+    thumbnail: "./images/lightbox/Φωτοβολταϊκα/thubnails/φωτοβολταϊκα10.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -283,8 +283,8 @@ export const images = [
 
 // sistimata asfaleias images gallery
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη1.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη1.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "Ηλεκτρολογικη εγκατασταση ",
@@ -293,8 +293,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη2.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη2.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -303,8 +303,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη3.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη3.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -313,8 +313,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη4.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη4.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -323,8 +323,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη5.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη5.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -333,8 +333,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη6.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη6.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -343,8 +343,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη7.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη7.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -353,8 +353,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη8.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη8.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -363,8 +363,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη9.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη9.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",
@@ -373,8 +373,8 @@ export const images = [
 },
 
 {
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    thumbnail: "./images/lightbox/im3.jpg",
+    src: "./images/lightbox/ασθενη_ρευματα/pictures750x450/ασθενη10.jpg",
+    thumbnail: "./images/lightbox/ασθενη_ρευματα/thubnails/ασθενη10.jpg",
     thumbnailWidth: 350,
     thumbnailHeight: 212,
     caption: "BoatsJeshu John ",

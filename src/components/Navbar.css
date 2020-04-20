@@ -67,15 +67,17 @@ nav li{
 nav li ul.submenu{
     display: none;
     animation: example1;
-    animation-duration: 0.5s;
+    animation-duration: 0.4s;
 }
 
 @keyframes example1{
     0%{
         transform: translateY(30px);
+        /* transform: scale(0); */
     }
     100%{
         transform: translateY(0px);
+        /* transform: scale(1); */
     }
 }
 
