@@ -19,9 +19,9 @@ export default class ΕπαφηSection extends Component {
               <div className="epikoinonia-tab">
                  <h3>Θέμης Μπουκουβάλας</h3>
                  <div className="epikoinoniaTab-info">
-                     <li><i class="fas fa-phone-alt"></i>210 6021965 - 6986823910</li>
-                     <li><i class="far fa-envelope"></i>odkolas@gmail.com</li>
-                     <li><i class="fas fa-map-marker-alt"></i>Αντ κιουση 47 κορωπι</li>
+                     <li><i className="fas fa-phone-alt"></i>210 6021965 - 6986823910</li>
+                     <li><i className="far fa-envelope"></i>odkolas@gmail.com</li>
+                     <li><i className="fas fa-map-marker-alt"></i>Αντ κιουση 47 κορωπι</li>
                  </div>
                  </div>
   

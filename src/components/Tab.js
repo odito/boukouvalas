@@ -1,5 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
+import Time from './Time';
+import Time2 from './Time2';
 
 export default function Tab() {
     return (
@@ -23,7 +25,9 @@ export default function Tab() {
       </div>
 
       <div className="single-tab  tab-clock">
-         <p>Δευ 22 Απρ 2019, 7:15:01</p>
+         {/* <p>Δευ 22 Απρ 2019, 7:15:01</p> */}
+   
+    <p><Time2 /></p>
          
        </div>
        <div className="we">

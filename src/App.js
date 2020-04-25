@@ -15,6 +15,8 @@ import Πιστοποιητικα from './Pages/Πιστοποιητικα';
 import Βλαβες from './Pages/Βλάβες';
 import Επικοινωνια from './Pages/Επικοινωνια';
 import Default from './Pages/Default';
+import Time from './components/Time';
+
 
 
 function App() {
@@ -41,7 +43,8 @@ function App() {
        </Switch>
 
        {/* <Footer /> */}
-      
+     
+    
       {/* end of footer */}
     </div>
   );
