@@ -21,7 +21,7 @@ import Time from './components/Time';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       {/* tab */}
        <Tab />
 
